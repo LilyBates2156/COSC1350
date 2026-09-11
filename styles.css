@@ -8,3 +8,10 @@ header {
     padding: 20px;
  width: 500px;
 }
+
+body { 
+     margin: 10px 50px 20px;
+    font: 1.2em / 1.5 system-ui;
+    padding: 20px;
+ width: 500px;
+}
