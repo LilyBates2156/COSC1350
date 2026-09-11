@@ -3,11 +3,11 @@ html {
     
 } 
 title {
-    margin: auto;
+    margin: 0 auto;
     font-family: 'Courier New', Courier, monospace;
 }
 header {
-   margin: auto;
+   margin: 0 auto;
     font: 1.2em / 1.5 system-ui;
     color: aliceblue;
     -webkit-text-stroke: 1px black;
@@ -22,7 +22,7 @@ header {
 }
 
 body { 
-    margin: auto;
+    margin: 0 auto;
     font: 1.2em / 1.5 system-ui;
     padding: 20px;
  width: 500px;
@@ -30,7 +30,7 @@ body {
 }
 
 footer {
-    margin: auto;
+    margin: 0 auto;
     font: 1.2em / 1.5 system-ui;
     color:azure;
     padding: 20px;
