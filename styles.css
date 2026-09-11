@@ -2,6 +2,12 @@ html {
     background-color: darkseagreen;
     
 } 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 title {
     margin: 0 auto;
     font-family: 'Courier New', Courier, monospace;
