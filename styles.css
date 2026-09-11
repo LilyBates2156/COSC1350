@@ -23,7 +23,7 @@ header {
 }
 
 body {
-    margin: 0 auto;
+    margin: auto;
     text-align: center;
     font: 1.2em / 1.5 system-ui; 
     padding: 20 px;
@@ -33,7 +33,7 @@ body {
 
 
 footer {
-    margin: 0 auto;
+    margin: auto;
     font: 1.2em / 1.5 system-ui;
     color:azure;
     padding: 20px;
