@@ -9,8 +9,8 @@ title {
     font-family: 'Courier New', Courier, monospace;
 }
 header {
-   margin: 0 auto;
-   text-align: center;
+    margin: auto;
+    text-align: center;
     font: 1.2em / 1.5 system-ui;
         color: aliceblue;
         -webkit-text-stroke: 1px black;
@@ -26,7 +26,8 @@ header {
 }
 
 body {
-    place-self: center;
+    margin: auto;
+    text-align: center;
     font: 1.2em / 1.5 system-ui; 
     padding: 20 px;
     width: 500px;
