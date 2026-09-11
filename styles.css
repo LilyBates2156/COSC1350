@@ -1,16 +1,18 @@
 html {
     background-color: darkseagreen;
 } 
-
+title {
+    margin: auto;
+}
 header {
-   margin: 10px 250px 20px;
+   margin: auto;
     font: 1.2em / 1.5 system-ui;
     padding: 20px;
  width: 500px;
 }
 
 body { 
-     margin: 10px 250px 20px;
+     margin: auto;
     font: 1.2em / 1.5 system-ui;
     padding: 20px;
  width: 500px;
